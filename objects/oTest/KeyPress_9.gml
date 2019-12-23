@@ -1,0 +1,1 @@
+allPressed = true;
