@@ -27,6 +27,6 @@ Waits till you press the right note combination before proceeding to the next on
 
 
 ## Screenshots
-![](/Screenshots/.png)
+![Game](/Screenshots/Game.png)
 
-![](/Screenshots/.png)
+![Code](/Screenshots/Code.png)
