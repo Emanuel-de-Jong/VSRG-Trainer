@@ -1,13 +1,15 @@
 keyAmount = 10;
 
-noteAmRandRange[0] = 4;
-noteAmRandRange[1] = 5;
+
 noteAmIsRand = true;
+noteAmRange[0] = 3;
+noteAmRange[1] = 5;
 
 noteAmIncreasing = false;
 hitsBeforeInc = 25;
 
-noteAmount = 5;
+noteAmount = 1;
+
 
 switch(keyAmount)
 {
@@ -35,34 +37,23 @@ switch(keyAmount)
 //		keys[1] = ord("W");
 //		keys[2] = ord("E");
 //		keys[3] = ord("R");
-//		keys[4] = vk_space;
-//		keys[5] = vk_ralt;
-//		keys[6] = ord("P");
-//		keys[7] = 219; //[
-//		keys[8] = 221; //]
-//		keys[9] = vk_enter;
-		
-		keys[0] = ord("Q");
-		keys[1] = ord("W");
-		keys[2] = ord("E");
-		keys[3] = ord("R");
+//		keys[4] = ord("V");
+//		keys[5] = ord("M");
+//		keys[6] = ord("O");
+//		keys[7] = ord("P");
+//		keys[8] = 219; //[
+//		keys[9] = 221; //]
+		keys[0] = ord("W");
+		keys[1] = ord("E");
+		keys[2] = ord("R");
+		keys[3] = ord("T");
 		keys[4] = vk_space;
-		keys[5] = vk_ralt;
-		keys[6] = ord("P");
-		keys[7] = 219; //[
-		keys[8] = 221; //]
-		keys[9] = vk_enter;
+		keys[5] = vk_right;
+		keys[6] = vk_numpad7;
+		keys[7] = vk_numpad8;
+		keys[8] = vk_numpad9;
+		keys[9] = vk_add;
 		
-//		keys[0] = ord("W");
-//		keys[1] = ord("E");
-//		keys[2] = ord("R");
-//		keys[3] = ord("T");
-//		keys[4] = vk_space;
-//		keys[5] = vk_right;
-//		keys[6] = vk_numpad7;
-//		keys[7] = vk_numpad8;
-//		keys[8] = vk_numpad9;
-//		keys[9] = vk_add;
 		break;
 }
 
@@ -128,7 +119,7 @@ switch(keyAmount)
 		noteSize = 1;
 		break;
 	case 10:
-		noteSize = 0.8;
+		noteSize = 0.6;
 		break;
 }
 

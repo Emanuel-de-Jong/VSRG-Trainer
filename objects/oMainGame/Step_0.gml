@@ -38,7 +38,7 @@ if (allPressed && keyboard_check(vk_nokey))
 	
 	if (noteAmIsRand) 
 	{
-		noteAmount = floor(random(noteAmRandRange[1] - noteAmRandRange[0] + 1)) + noteAmRandRange[0];
+		noteAmount = floor(random((noteAmRange[1] + 1) - noteAmRange[0])) + noteAmRange[0];
 	}
 	else if (noteAmIncreasing)
 	{
