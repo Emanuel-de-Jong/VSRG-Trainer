@@ -1,14 +1,16 @@
-# VSRG-Trainer
- 
-## Description
-Made to train a specific keymode in any rrhythm game.
-Waits till you press the right note combination before proceeding to the next one.
+# VSRG Trainer
+Made to train a specific keymode in any rrhythm game. Waits till you press the right note combination before proceeding to the next one.
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/1-Game.png) | ![](/Screenshots/2-Code.png) |
 
 ## Information
 - Type: Game
 - Programming languages: GML(Python like)
-
 
 ## Progress
 - Start date: 04.06.19
@@ -24,9 +26,3 @@ Waits till you press the right note combination before proceeding to the next on
      - Falling notes instead of static
      - Options as a menu instead of through changing the code
      - More styling
-
-
-## Screenshots
-![Game](/Screenshots/Game.png)
-
-![Code](/Screenshots/Code.png)
