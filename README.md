@@ -1,5 +1,5 @@
 # VSRG Trainer
-Made to train a specific keymode in any rrhythm game. Waits till you press the right note combination before proceeding to the next one.
+Made to train a specific keymode in any rhythm game. Waits till you press the right note combination before proceeding to the next one.
 
 **Active Development:** <br>
 **Last Change:** <br>
