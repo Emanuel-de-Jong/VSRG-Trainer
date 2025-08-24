@@ -13,8 +13,8 @@ Made to train a specific keymode in any rrhythm game. Waits till you press the r
 - Programming languages: GML(Python like)
 
 ## Progress
-- Start date: 04.06.19
-- Last change: 08.06.19
+- Start date: 2019-06-04
+- Last change: 2019-06-08
 - Activity status: Ended
 - Reason activity status: I made it for myself and it was good enough for what I wanted
 - Completion status: 75%
