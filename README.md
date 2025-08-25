@@ -1,8 +1,8 @@
 # VSRG Trainer
 Made to train a specific keymode in any rhythm game. Waits till you press the right note combination before proceeding to the next one.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-06-04 - 2019-06-08<br>
+**Last Change:** 2019-06-08<br>
 
 | | |
 | :---: | :---: |
@@ -10,11 +10,9 @@ Made to train a specific keymode in any rhythm game. Waits till you press the ri
 
 ## Information
 - Type: Game
-- Programming languages: GML(Python like)
+- Programming languages: GML (Python like)
 
 ## Progress
-- Start date: 2019-06-04
-- Last change: 2019-06-08
 - Activity status: Ended
 - Reason activity status: I made it for myself and it was good enough for what I wanted
 - Completion status: 75%
