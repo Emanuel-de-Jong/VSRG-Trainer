@@ -24,3 +24,4 @@ Made to train a specific keymode in any rhythm game. Waits till you press the ri
      - Falling notes instead of static
      - Options as a menu instead of through changing the code
      - More styling
+ 
